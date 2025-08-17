@@ -1,6 +1,6 @@
 Zepto Inventory Analysis Project
-📌 Project Overview
 
+📌 Project Overview
 This project demonstrates inventory management and analysis using SQL on the Zepto dataset. The goal is to explore product inventory, pricing, discounts, and stock availability to gain actionable business insights.
 
  Dataset
